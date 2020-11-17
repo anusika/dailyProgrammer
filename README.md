@@ -17,7 +17,7 @@ That means through commenting and spacing for easy of reading.
 # Completed Challenges
 
 * ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `378` [The Havel-Hakimi Algorithm](https://www.reddit.com/r/dailyprogrammer/comments/bqy1cf/20190520_challenge_378_easy_the_havelhakimi/)
-[Code](378HavelHakimi.cpp)
+[(Code)](378HavelHakimi.cpp)
   * Having always struggled with recursion style questions, this challange seemed like the perfect soft way of facing my fear :)
   * The step-by-step warm up functions made it easy to focus on understanding how to build up and implement the algorithm from scratch
   * Main Things I Learned About:
@@ -26,6 +26,7 @@ That means through commenting and spacing for easy of reading.
       * The benefits of passing a vaiable by reference 
 
 * ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `364` [Create a Dice Roller](https://www.reddit.com/r/dailyprogrammer/comments/8s0cy1/20180618_challenge_364_easy_create_a_dice_roller/)
+[(Code)](364DiceRoller.cpp)
    * Not super complicated but a nice intro to working with strings in C++
    * Main Things I Learned About:
      * Searching using delimiters in strings

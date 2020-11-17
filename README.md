@@ -24,9 +24,14 @@ That means through commenting and spacing for easy of reading.
       * Implement a recursive function
       * The benefits of passing a vaiable by reference 
 
-# List of Next Challanges
 * ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `364` [Create a Dice Roller](https://www.reddit.com/r/dailyprogrammer/comments/8s0cy1/20180618_challenge_364_easy_create_a_dice_roller/)
+   * Not super complicated but a nice intro to working with strings in C++
+   * Main Things I Learned About:
+     * Searching using delimiters in strings
+     * Creating substrings 
+     * Passing in command line arguments
 
+# List of Next Challanges
 * ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `380` [Smooshed Morse Code 1](https://www.reddit.com/r/dailyprogrammer/comments/cmd1hb/20190805_challenge_380_easy_smooshed_morse_code_1/)
 
 * ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `380` [Axis-aligned crate packing](https://www.reddit.com/r/dailyprogrammer/comments/bazy5j/20190408_challenge_377_easy_axisaligned_crate/ )

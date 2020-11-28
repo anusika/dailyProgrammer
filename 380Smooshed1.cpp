@@ -38,6 +38,7 @@ string get_valid_string(){
                     break;
                 }
 
+                //string has no digits
                 if (i == (content.length() -1 ))
                 {
                     notValid = false;
@@ -58,15 +59,20 @@ void smorse(string toTranslate)
     int index = 0;
     for (int i = 0; i < toTranslate.length(); i++)
     {
+        // find how many spaces we need to skip to get to letter
         toTranslate[i] = tolower(toTranslate[i]);
         countSpaces = toTranslate[i] - 97;
         index = 0;
 
+        //get index by skipping the amount of spaces we calculated above
         for (int k = 0; k < countSpaces;  k++)
         {
             index = smooshed.find(' ', index + 1);
         }
 
+        //only print until end of string or next space is reached
+        //adding bool(index) because if index is 0 we should start at beginning of string
+        //otherwise start at position after space
         for ( int j = index + bool(index) ; (smooshed[j] == '\0' || smooshed[j] != ' ') ; j++)
         {
             cout << smooshed[j];

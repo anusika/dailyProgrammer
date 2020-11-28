@@ -33,6 +33,13 @@ That means through commenting and spacing for easy of reading.
      * Creating substrings 
      * Passing in command line arguments
 
+* ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `380` [Smooshed Morse Code 1](https://www.reddit.com/r/dailyprogrammer/comments/cmd1hb/20190805_challenge_380_easy_smooshed_morse_code_1/)
+[(Code)](380Smooshed1.cpp)
+   * Pretty easy but got to practice some validition for strings and input
+   * Main Things I Learned About:
+     * Checking for numbers in strings
+     * Finding substrings
+
 # List of Next Challanges
 * ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `380` [Smooshed Morse Code 1](https://www.reddit.com/r/dailyprogrammer/comments/cmd1hb/20190805_challenge_380_easy_smooshed_morse_code_1/)
 
